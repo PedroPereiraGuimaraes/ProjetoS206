@@ -1,0 +1,15 @@
+{
+  "name": "projeto-s206",
+  "version": "1.0.0",
+  "description": "Project S206",
+  "main": "index.js",
+  "dependencies": {
+    "selenium-webdriver": "4.0.0-alpha.7",
+    "webdriverio": "^8.20.4"
+  },
+  "scripts": {
+    "test": "./selenium-webdriver.js"
+  },
+  "author": "Pessoas",
+  "license": "ISC"
+}
